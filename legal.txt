@@ -2,7 +2,7 @@
 
 
 ----------------------------------
-Legal notice
+Legal notice (disclaimer):
 ----------------------------------
 
 ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
@@ -20,8 +20,8 @@ HTML-cтраница, представляющая этот домашний р�
 An HTML page representing this home radio channel is published on GitHub Pages at https://radiomay.github.io
 for experimental purposes and are forbidden to be indexed by search engines in the file https://radiomay.github.io/robots.txt
 
-Content broadcast by the player of this private resource from a live stream is not intended for public playback!
+Content broadcast by the player of this private resource from a live stream is not intended for digital performances to the public!
 Immediately leave this site if you are not related to the admin!
 
-Not a mass media!
+This is not a mass media!
 
